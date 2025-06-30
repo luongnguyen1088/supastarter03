@@ -9,13 +9,13 @@
 		"zod": "^3.25.55"
 	},
 	"devDependencies": {
-		"@biomejs/biome": "1.9.4",
+		"@biomejs/biome": "2.0.6",
 		"@repo/tsconfig": "workspace:*",
-		"@types/node": "22.15.30",
+		"@types/node": "24.0.7",
 		"dotenv-cli": "^8.0.0",
-		"drizzle-kit": "^0.31.1",
-		"prisma": "^6.9.0",
-		"prisma-json-types-generator": "^3.4.2",
+		"drizzle-kit": "^0.31.4",
+		"prisma": "^6.10.1",
+		"prisma-json-types-generator": "^3.5.0",
 		"zod-prisma-types": "^3.2.4"
 	},
 	"main": "./index.ts",
