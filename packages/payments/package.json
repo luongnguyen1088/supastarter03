@@ -1,11 +1,11 @@
 {
 	"dependencies": {
 		"@lemonsqueezy/lemonsqueezy.js": "^4.0.0",
-		"@polar-sh/sdk": "^0.33.0",
+		"@polar-sh/sdk": "^0.34.2",
 		"@repo/config": "workspace:*",
 		"@repo/database": "workspace:*",
 		"@repo/logs": "workspace:*",
-		"chargebee-typescript": "^2.48.0",
+		"chargebee-typescript": "^2.49.0",
 		"stripe": "^18.2.1",
 		"ufo": "^1.6.1"
 	},
