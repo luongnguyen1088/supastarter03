@@ -1,12 +1,12 @@
 {
 	"dependencies": {
 		"@paralleldrive/cuid2": "^2.2.2",
-		"@prisma/client": "^6.9.0",
+		"@prisma/client": "^6.11.1",
 		"@repo/config": "workspace:*",
 		"drizzle-orm": "^0.44.2",
 		"drizzle-zod": "^0.8.2",
-		"pg": "^8.16.0",
-		"zod": "^3.25.55"
+		"pg": "^8.16.3",
+		"zod": "^3.25.72"
 	},
 	"devDependencies": {
 		"@biomejs/biome": "1.9.4",
