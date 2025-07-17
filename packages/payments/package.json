@@ -10,9 +10,9 @@
 		"ufo": "^1.6.1"
 	},
 	"devDependencies": {
-		"@biomejs/biome": "1.9.4",
+		"@biomejs/biome": "2.1.1",
 		"@repo/tsconfig": "workspace:*",
-		"@types/node": "^22.15.30"
+		"@types/node": "^24.0.14"
 	},
 	"main": "./index.ts",
 	"exports": {
