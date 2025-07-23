@@ -13,12 +13,12 @@
 		"use-intl": "^4.1.0"
 	},
 	"devDependencies": {
-		"@biomejs/biome": "1.9.4",
+		"@biomejs/biome": "2.1.2",
 		"@repo/tsconfig": "workspace:*",
 		"@tailwindcss/line-clamp": "^0.4.4",
-		"@types/node": "22.15.30",
+		"@types/node": "24.1.0",
 		"@types/nodemailer": "^6.4.17",
-		"@types/react": "19.1.6"
+		"@types/react": "19.1.8"
 	},
 	"main": "./index.ts",
 	"name": "@repo/mail",
