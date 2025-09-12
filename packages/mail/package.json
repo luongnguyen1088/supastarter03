@@ -1,24 +1,24 @@
 {
 	"dependencies": {
-		"@react-email/components": "^0.0.41",
-		"@react-email/render": "^1.1.2",
+		"@react-email/components": "^0.5.3",
+		"@react-email/render": "^1.2.3",
 		"@repo/config": "workspace:*",
 		"@repo/i18n": "workspace:*",
 		"@repo/logs": "workspace:*",
-		"next-intl": "4.1.0",
-		"nodemailer": "^7.0.3",
-		"react": "19.1.0",
-		"react-dom": "19.1.0",
-		"react-email": "^4.0.16",
-		"use-intl": "^4.1.0"
+		"next-intl": "4.3.7",
+		"nodemailer": "^7.0.6",
+		"react": "19.1.1",
+		"react-dom": "19.1.1",
+		"react-email": "^4.2.11",
+		"use-intl": "^4.3.7"
 	},
 	"devDependencies": {
 		"@biomejs/biome": "1.9.4",
 		"@repo/tsconfig": "workspace:*",
 		"@tailwindcss/line-clamp": "^0.4.4",
 		"@types/node": "22.15.30",
-		"@types/nodemailer": "^6.4.17",
-		"@types/react": "19.1.6"
+		"@types/nodemailer": "^7.0.1",
+		"@types/react": "19.1.12"
 	},
 	"main": "./index.ts",
 	"name": "@repo/mail",
