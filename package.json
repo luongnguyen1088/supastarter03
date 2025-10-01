@@ -14,12 +14,12 @@
 	},
 	"packageManager": "pnpm@9.3.0",
 	"devDependencies": {
-		"@biomejs/biome": "1.9.4",
+		"@biomejs/biome": "2.2.4",
 		"@repo/tsconfig": "workspace:*",
-		"@types/node": "^22.15.30",
-		"dotenv-cli": "^8.0.0",
-		"turbo": "^2.5.4",
-		"typescript": "5.8.3"
+		"@types/node": "^24.6.1",
+		"dotenv-cli": "^10.0.0",
+		"turbo": "^2.5.8",
+		"typescript": "5.9.3"
 	},
 	"pnpm": {
 		"overrides": {
