@@ -9,7 +9,7 @@
 		"@biomejs/biome": "1.9.4",
 		"@repo/tsconfig": "workspace:*",
 		"@types/node": "^22.15.30",
-		"nanoid": "^5.1.5",
+		"nanoid": "^5.1.6",
 		"tsx": "^4.19.4"
 	},
 	"name": "@repo/scripts",
