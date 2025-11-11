@@ -21,12 +21,12 @@
 		"zod": "^3.25.55"
 	},
 	"devDependencies": {
-		"@biomejs/biome": "1.9.4",
+		"@biomejs/biome": "2.3.4",
 		"@repo/tsconfig": "workspace:*",
 		"@types/react": "19.1.6",
 		"encoding": "^0.1.13",
-		"prisma": "^6.9.0",
-		"typescript": "5.8.3"
+		"prisma": "^6.19.0",
+		"typescript": "5.9.3"
 	},
 	"main": "./index.ts",
 	"name": "@repo/api",
