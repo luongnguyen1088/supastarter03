@@ -1,0 +1,13 @@
+.git
+.gitignore
+.dockerignore
+node_modules
+npm-debug.log
+context
+dist
+.next
+.turbo
+build
+.env
+.env.*
+!.env.example
