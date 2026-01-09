@@ -1,0 +1,11 @@
+[33mcommit 7bf5741502a49e3be4ef77752b33b60ed3257d97[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: luongnguyen1088 <luongnguyen1088@gmail.com>
+Date:   Fri Jan 9 08:17:24 2026 +0700
+
+    chore: prepare for dokploy deployment (Dockerfile, .dockerignore, standalone config)
+
+[33mcommit d81870838f67c50fca6946100d93f11879656e8e[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Jonathan Wilke <info@jonathan-wilke.de>
+Date:   Sat Jun 28 18:33:01 2025 +0200
+
+    fix: relations for drizzle
